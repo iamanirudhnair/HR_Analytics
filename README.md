@@ -6,8 +6,6 @@ This HR Analytics project uses Power BI to create interactive and insightful das
 
 ![image_alt](https://github.com/iamanirudhnair/HR_Analytics/blob/main/HR%20Dashboard.png?raw=true)
 
-You can follow the tutorial video series [here](https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM&index=1&ab_channel=codebasics).
-
 ## Table of Contents
 
 1. [Techniques and Tools Used](#techniques-and-tools-used)
